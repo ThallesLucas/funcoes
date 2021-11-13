@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(18, 180, 221, 0.61);
+    color: rgb(11, 58, 11);
+}
+
+form{
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    width: 682.34px;
+    height: 49.2px;
+    margin-left: -341.17px;
+    margin-top: -49.2px;
+}
+
+h1{
+    text-align: center;
+}
